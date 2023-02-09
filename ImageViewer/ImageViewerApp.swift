@@ -13,7 +13,8 @@ struct ImageViewerApp: App {
         WindowGroup {
 //            ProfileView()
 //            SearchView()
-            SplashScreen()
+//            SplashScreen()
+            PasswordViews()
 //            LogInScreen()
 //            MainView()
         }
