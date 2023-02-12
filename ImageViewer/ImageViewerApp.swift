@@ -14,7 +14,8 @@ struct ImageViewerApp: App {
 //            ProfileView()
 //            SearchView()
 //            SplashScreen()
-            PasswordViews()
+//            PasswordViews()
+            DownloadingImagesBootCamp()
 //            LogInScreen()
 //            MainView()
         }
